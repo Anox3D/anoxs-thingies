@@ -1,0 +1,30 @@
+.thingies {
+    padding-top: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.thingie {
+    margin-top: 50px;
+    display: block;
+}
+
+.thingie-thumbnail {
+    margin-right: 10px;
+    float: left;
+}
+
+.thingie-header {
+    font-family: 'Roboto', sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+    color: black;
+}
+
+.thingie-description {
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    color: gray;
+    padding-bottom: 85px;
+}

@@ -1,0 +1,10 @@
+#ball {
+    border-radius: 50%;
+    width: 75px;
+    height: 75px;
+    background-color: #86d8ca;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: transform 0.25s;
+}

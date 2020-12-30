@@ -1,0 +1,10 @@
+a.back {
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    color: black;
+}
+
+a.back:hover {
+    text-decoration: underline;
+}

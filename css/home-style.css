@@ -1,0 +1,39 @@
+/* Cases */
+.cases {
+    padding-top: 75px;
+    align-content: center;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.cases-text {
+    font-family: 'Roboto', sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+    color: black;
+    padding: 25px;
+}
+
+.js-case {
+    text-align: center;
+    border: 6px solid #f7df1e;
+    width: 50%;
+    float: left;
+    transition: 0.25s;
+}
+
+.js-case:hover {
+    background-color: #f7df1e;
+}
+
+.php-case {
+    text-align: center;
+    border: 6px solid #777bb3;
+    width: 50%;
+    float: right;
+    transition: 0.25s;
+}
+
+.php-case:hover {
+    background-color: #777bb3;
+}

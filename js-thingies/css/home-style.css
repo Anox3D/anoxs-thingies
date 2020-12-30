@@ -12,6 +12,7 @@
 .thingie-thumbnail {
     margin-right: 10px;
     float: left;
+    border-radius: 15px;
 }
 
 .thingie-header {
@@ -27,4 +28,22 @@
     font-weight: 400;
     color: gray;
     padding-bottom: 85px;
+}
+
+.link {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #417cd9;
+}
+
+.link:hover {
+    color: #3657d1;
+}
+
+span {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
 }

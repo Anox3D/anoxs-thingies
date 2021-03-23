@@ -3,6 +3,7 @@ a.back {
     font-size: 22px;
     font-weight: 400;
     color: black;
+    margin: 10px;
 }
 
 a.back:hover {
